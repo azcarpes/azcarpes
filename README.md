@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Prefeitura de Florianópolis
 
-- 🌱 I’m currently learning JavaScript, HTML and CSS
+- 🌱 I’m currently learning JAVA, JavaScript, HTML and CSS
 
 - 👯 I’m looking to collaborate on whatever I'm able to
 
